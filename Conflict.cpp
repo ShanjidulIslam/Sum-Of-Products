@@ -12,6 +12,6 @@ int main ()
     //joha=((P_Price[0]*P_Unit[0])+(P_Price[1]+P_Unit[1]));
     joha=(P_Price[0]*P_Unit[0])+(P_Price[1]*P_Unit[1])+(P_Price[2]*P_Unit[2]);
 
-    printf("VALOR A PAGAR: R$ %.2f\n", joha);				//Created By Ajm Joha
+    printf("VALOR A PAGAR: R$ %.2f\n", joha);				
     return 0;
 }
